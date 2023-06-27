@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // //your JS code here. If required.
 const sizeInfo = document.querySelector('#sizeInfo');
 const width = sizeInfo.querySelector('h1:first-child');
